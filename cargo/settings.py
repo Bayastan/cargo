@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     # installed apps 
     'rest_framework',
     'phonenumber_field',
+    'lfadsfjasf'
 ]
 
 MIDDLEWARE = [
